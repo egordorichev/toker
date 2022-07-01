@@ -1,0 +1,27 @@
+{
+  "name": "toker",
+  "version": "1.0.0",
+  "description": "Hack-a-TON entry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egordorichev/toker.git"
+  },
+  "keywords": [
+    "ton"
+  ],
+  "author": "egordorichev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egordorichev/toker/issues"
+  },
+  "homepage": "https://github.com/egordorichev/toker#readme",
+  "dependencies": {
+    "@foile/crypto-pay-api": "^1.0.3",
+    "dotenv": "^16.0.1",
+    "node-telegram-bot-api": "^0.58.0"
+  }
+}
